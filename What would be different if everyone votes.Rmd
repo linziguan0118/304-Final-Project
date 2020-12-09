@@ -2,7 +2,7 @@
 title: "What would be different if everyone votes?"
 subtitle: ""
 author: "Linzi Guan"
-thanks: "Code and data are available at: "
+thanks: "Code and data are available at: https://github.com/linziguan0118/304-Final-Project.git"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 abstract: |
   | Observing the significant political influence of low voter turnout and huge different between the predicted results of election in polls and in real world, this paper analyses the issues of low voter turnout and aims to find what would be different if everyone votes. Datasets about ... are obtained, cleaned and analysed with a statistical Multilevel regression model with post stratification. Based on the model, ... is found. The results and the study appeal for politicans to predict the final results of the election taking everyones' vote and thus to come up policies that call people to vote. 
