@@ -9,9 +9,7 @@ abstract: |
 
   |
   | **Keywords:** Political participation, Low voter turnout, 2019 US eletion, TBD
-output:
-  html_document: default
-  pdf_document: default
+output: pdf_document
 toc: FALSE
 #bibliography: references.bib
 
@@ -36,7 +34,7 @@ Undetermined
 Undetermined
 
 # Limitations and next steps
-Undetermiend
+Undetermined
 
 # Reference
 https://dash.harvard.edu/bitstream/handle/1/11156810/Fowler_gsas.harvard_0084L_10773.pdf?sequence=3
